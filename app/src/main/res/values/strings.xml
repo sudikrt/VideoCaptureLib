@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VedioCaptureLibTest</string>
+    <string name="capture">Capture</string>
+    <string name="pick_up_form_gal">Pick up from gallery</string>
+    <string name="improper_uri">Cannot retrive the uri</string>
+    <string name="permission_title_rationale">You have denied this permission Please grant it otherwise you cannot  user it</string>
+    <string name="alert">Alert: Permission Required</string>
+    <string name="label_ok">Okay</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="choose_video">Choose a video</string>
+    <string name="progress_text">Please wait</string>
+    <string name="trimmed_vd">Trimmed video stored in</string>
+</resources>
